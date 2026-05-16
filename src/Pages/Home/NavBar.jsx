@@ -37,14 +37,14 @@ function Navbar() {
       <div>
   
       </div>
-      <a
+      <button
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}
       >
         <span className="nav_hamburger_line"></span>
         <span className="nav_hamburger_line"></span>
         <span className="nav_hamburger_line"></span>
-      </a>
+      </button>
       <div className={`navbar--items ${navActive ? "active" : ""}`}>
         <ul>
           <li>
