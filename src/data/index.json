@@ -1,0 +1,74 @@
+{
+    "skills":[
+        {
+            "id":"1",
+            "src":"./img/product-chain-1.png",
+            "title":"mern stack",
+            "description":"I build dynamic and scalable applications using MongoDB, Express, React, and Node.js."
+        },
+        {
+            "id":"2",
+            "src":"./img/tag-1.png",
+            "title":"full stack",
+            "description":"I develop end-to-end web solutions, handling everything from UI to server and database."
+        },
+        {
+            "id":"3",
+            "src":"./img/feather-pen-2.png",
+            "title":"Ui &Ux design",
+            "description":"I design intuitive, visually appealing user experiences that combine creativity with usability."
+        },
+        {
+            "id":"4",
+            "src":"./img/feather-pen-1.png",
+            "title":"Web development",
+            "description":"I create responsive, high-performance websites tailored for real-world use."
+        }
+    ],
+
+    "portfolio":[
+        {
+            "id":"1",
+            "src":"./img/placeholder-image.png",
+            "title":"e-commerce website",
+            "description":"A full-featured e-commerce web app built using the MERN stack, offering product browsing, user authentication, cart management, and secure order handling. Designed with a responsive UI, smooth API integration, and a scalable backend for a seamless shopping experience.",
+            "link":"View  in Github"
+        },
+        {
+            "id":"2",
+            "src":"./img/placeholder-image-1.png",
+            "title":"vendors management project",
+            "description":"A complete vendor onboarding and management platform built with Angular and PostgreSQL. It includes vendor registration, status tracking, role-based access, form validation, and an admin dashboard. Designed for efficient workflow, smooth UI, and secure backend API handling.",
+             "link":"View  in Github"
+        }
+       
+        
+    ],
+    "testimonial":[
+        {
+            "id":"1",
+            "count":"5",
+            "src":"./img/avatar-image.png",
+            "description":"Lorem ipsum dolar sitlorem ,orefff",
+            "author_name":"Dianne Russel",
+            "author_designation":"Starbucks"
+        },
+        {
+            "id":"2",
+            "count":"5",
+            "src":"./img/avatar-image-1.png",
+            "description":"Lorem ipsum dolar sithhhhhhhjjjjjj",
+            "author_name":"Kristin Watson",
+            "author_designation":"Louis Vuitton"
+        },
+        {
+            "id":"3",
+            "count":"5",
+            "src":"./img/avatar-image-2.png",
+            "description":"Lorem ipsum dolar sithhhhhhhhhhhhhhh",
+            "author_name":"Kathryn Murphy",
+            "author_designation":"McDonald's"
+        }
+        
+    ]
+}
